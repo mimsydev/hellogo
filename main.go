@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/mimsydev/mystrings"
+)
 
 func main() {
 	fmt.Println("hello world")
